@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mi menu</string>
+    <string name="item1">Sistemas Informáticos</string>
+    <string name="item2">Comunicación</string>
+    <string name="item3">Agropecuaria</string>
+    <string name="item4">Informática Industrial</string>
+    <string name="item5">Electrónica</string>
+    <string name="item6">Industria de Alimentos</string>
+    <string name="item7">Gastronomía</string>
+    <string name="subitem1">EST-201</string>
+    <string name="subitem2">PRG-202</string>
+    <string name="subitem3">EDD-203</string>
+    <string name="subitem4">RDC-204</string>
+    <string name="subitem5">PDM-205</string>
+    <string name="subitem6">ADS-206</string>
+    <string name="subitem7">DPW-207</string>
+    <string name="subitem8">BDD-208</string>
+
+
+
+</resources>

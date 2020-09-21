@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:title="@string/item1" >
+        <menu>
+            <item
+                android:id="@+id/subitem1"
+                android:title="@string/subitem1" />
+
+            <item
+                android:id="@+id/subitem2"
+                android:title="@string/subitem2" />
+
+            <item
+                android:id="@+id/subitem3"
+                android:title="@string/subitem3" />
+
+            <item
+                android:id="@+id/subitem4"
+                android:title="@string/subitem4" />
+
+            <item
+                android:id="@+id/subitem5"
+                android:title="@string/subitem5" />
+
+            <item
+                android:id="@+id/subitem6"
+                android:title="@string/subitem6" />
+
+            <item
+                android:id="@+id/subitem7"
+                android:title="@string/subitem7" />
+
+            <item
+                android:id="@+id/subitem8"
+                android:title="@string/subitem8" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item2"
+        android:title="@string/item2" />
+    <item
+        android:id="@+id/item3"
+        android:title="@string/item3" />
+    <item
+        android:id="@+id/item4"
+        android:title="@string/item4" />
+    <item
+        android:id="@+id/item5"
+        android:title="@string/item5" />
+    <item
+        android:id="@+id/item6"
+        android:title="@string/item6" />
+    <item
+        android:id="@+id/item7"
+        android:title="@string/item7" />
+</menu>
